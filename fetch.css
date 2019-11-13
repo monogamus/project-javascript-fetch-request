@@ -1,0 +1,24 @@
+.follower-link a:link {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.follower-link a:visited {
+  color: #000000;
+  text-decoration: none;
+}
+
+.follower-link a:hover {
+  color: #DC143C;
+  text-decoration: none;
+}
+
+.follower-link a:active {
+  color: #4169E1;
+}
+
+.card {
+  min-height: 95%;
+}
